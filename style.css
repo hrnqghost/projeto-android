@@ -62,7 +62,7 @@ header > p {
    padding-right: 10px;
    padding-left: 10px;
    margin: auto;
-   margin-bottom: 30px;
+   padding-bottom: 50px;
    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.26);
 }
 
@@ -156,7 +156,7 @@ main img {
 div.video {
    background-color: var(--cor05);
    padding: 20px;
-   padding-bottom: 59%;
+   padding-bottom: 58%;
    position: relative;
    margin: 0px -20px 30px -20px;
 }
@@ -166,7 +166,7 @@ div.video > frame {
      top: 5%;
      left: 5%;
      width: 90%;
-    height: 90%;
+     height: 90%;
 }
 
 aside {
